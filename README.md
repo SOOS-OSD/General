@@ -1,9 +1,45 @@
 # Southern Ocean Observing System
 
-## Observing System Design (OSD) Working Group
-The Observing System Design (OSD) Working Group aims to facilitate the design of a comprehensive and multi-disciplinary observing system for the Southern Ocean
+## Observing System Design (OSD) Capability Working Group
+
+The Observing System Design (OSD) Capability Working Group developed from the need to quantify the minimal amount of data required to address specific quantities or variables of interest. This work supports efforts to gain greatest scientific benefit from limited resources. The working group aims to analyze methods and provide guidance for optimizing observational strategies and seeks to enhance collaboration and instigate discussions on this important topic. 
+
+Our goal is to Facilitating the design of a comprehensive and multi-disciplinary observing system for the Southern Ocean.
+https://www.soos.aq/activities/cwg/osd
+
+
+#### Goals
+
+######Provide the following deliverables: 
+
+1. Build a network of interested members and stakeholders, including a committed  leadership team.
+
+2. Identify Observing System Design projects (e.g. for graduate students or more  advanced researcher) for specific stakeholders and/or working groups (e.g. Ross Sea MPA)
+
+3. Contribute to workshops (e.g. a planned SORP/OSD/SOFLUX workshop)
+
+4. Contributions to the BAMS State of the Climate report
+
+
+######General goals include: 
+
+1. Compile list of possibly useful methodologies for OSD
+
+2. Determine scope of requirements
+
+3. Recommend methods for estimating correlation scales and observing system designing  (univariate)
+
+4. Recommend methods for estimating covariance scales, significance, and multivariate  system design
+
+5. Recommend methods for observing system design experiments (OSSEs)
+
+6. Build user-friendly OSSE tools
+
+7. Consider inter-calibration needs and synergies within OSD
+
 
 #### Terms of reference
+
 1. Compile a list of tools used across disciplines for observing system design and evaluation: statistical methods exist in other disciplines (e.g terrestrial ecology and hydrography).
 
 2. Compile a list of quantities of interest (QoIs) or classes of QoIs that methods of observing system evaluation must be able to handle. The observing system design depends on the QoI. The QoI could be an essential ocean variable (EOV; e.g. T, S, Fe, O2, pH….), or it could be driven by a scientific question (e.g. upper ocean property content, water mass formation rate, upwelling rate, downwelling rate, mixed layer depth, mixing layer depth, thermocline depth, ice export, NCP, NPP, O2 sat, aragonite saturation). We may want to declare all EOVs QoIs, and then ask other panels (e.g. SORP) for a list of other science-based QoIs. This deliverable may also be considered a task of SOOS objective 1 in the SOOS implementation plan.

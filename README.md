@@ -21,24 +21,7 @@ https://www.soos.aq/activities/cwg/osd
 4. Contributions to the BAMS State of the Climate report
 
 
-######General goals include: 
-
-1. Compile list of possibly useful methodologies for OSD
-
-2. Determine scope of requirements
-
-3. Recommend methods for estimating correlation scales and observing system designing  (univariate)
-
-4. Recommend methods for estimating covariance scales, significance, and multivariate  system design
-
-5. Recommend methods for observing system design experiments (OSSEs)
-
-6. Build user-friendly OSSE tools
-
-7. Consider inter-calibration needs and synergies within OSD
-
-
-#### Terms of reference
+#### Terms of reference and general goals
 
 1. Compile a list of tools used across disciplines for observing system design and evaluation: statistical methods exist in other disciplines (e.g terrestrial ecology and hydrography).
 

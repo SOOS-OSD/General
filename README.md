@@ -4,8 +4,6 @@
 
 The [Observing System Design (OSD) Capability Working Group](https://www.soos.aq/activities/cwg/osd) developed from the need to quantify the minimal amount of data required to address specific quantities or variables of interest. This work supports efforts to gain greatest scientific benefit from limited resources. The working group  aims to facilitate the design of a comprehensive and multi-disciplinary observing system for the Southern Ocean by analyzing methods, providing guidance for optimizing observational strategies and seeking to enhance collaboration and instigate discussions on this important topic. 
 
-https://www.soos.aq/activities/cwg/osd
-
 
 #### Goals
 

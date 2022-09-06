@@ -7,6 +7,8 @@ The [Observing System Design (OSD) Capability Working Group](https://www.soos.aq
 
 #### Goals
 
+![soos-osd-deliverables-crop-page-001](https://user-images.githubusercontent.com/11757453/188604556-fdeec0c2-50f9-48ca-b4c5-039f18999621.jpg)
+
 Provide the following deliverables: 
 
 1. Build a network of interested members and stakeholders, including a committed  leadership team.

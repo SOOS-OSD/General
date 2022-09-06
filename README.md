@@ -20,7 +20,7 @@ Provide the following deliverables:
 
 #### Terms of reference and general goals
 
-![terms-of-reference-graphic-crop-page-001](https://user-images.githubusercontent.com/11757453/188602024-8f26103d-aa25-4f12-9e1f-68751cac5f87.jpg)
+![terms-of-reference-graphic-crop-page-001 (1)](https://user-images.githubusercontent.com/11757453/188602631-eb8b39df-c1af-4c64-83bc-55d6b9572837.jpg)
 
 1. Compile a list of tools used across disciplines for observing system design and evaluation: statistical methods exist in other disciplines (e.g terrestrial ecology and hydrography).
 
